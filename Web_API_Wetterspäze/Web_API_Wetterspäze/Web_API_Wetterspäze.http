@@ -1,0 +1,6 @@
+@Web_API_Wetterspäze_HostAddress = http://localhost:5149
+
+GET {{Web_API_Wetterspäze_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
