@@ -1,0 +1,16 @@
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\bin\Debug\net10.0\Chat_Nachrichtenpruef.exe
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\bin\Debug\net10.0\Chat_Nachrichtenpruef.deps.json
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\bin\Debug\net10.0\Chat_Nachrichtenpruef.runtimeconfig.json
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\bin\Debug\net10.0\Chat_Nachrichtenpruef.dll
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\bin\Debug\net10.0\Chat_Nachrichtenpruef.pdb
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.AssemblyInfoInputs.cache
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.AssemblyInfo.cs
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.csproj.CoreCompileInputs.cache
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.sourcelink.json
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.dll
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\refint\Chat_Nachrichtenpruef.dll
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.pdb
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nachrichtenpruef.genruntimeconfig.cache
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\ref\Chat_Nachrichtenpruef.dll
+C:\Users\Clemis PC\Desktop\workspace\Chat Nachrichten\Chat_Nachrichtenpruef\Chat_Nachrichtenpruef\obj\Debug\net10.0\Chat_Nac.3EC12570.Up2Date
